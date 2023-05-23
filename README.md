@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ## Demo
 * Install the face detector:
 ```sh
-pip install git+https://github.com/nyandog26/face-detection.git@master
+pip install git+https://github.com/nyandog26/face-detection-requirement-free.git@master
 ```
 * Download the pre-trained models from [here](https://drive.google.com/drive/folders/17p6ORr-JQJcw-eYtG2WGNiuS_qVKwdWd?usp=sharing) and Store it to *models/*.
 *  Run:
